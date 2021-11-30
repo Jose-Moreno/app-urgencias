@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">Sprint2Urgencias</string>
+    <string-array name="EPS">
+        <item>Asmet Salud EPS</item>
+        <item>Aliansalud</item>
+        <item>Coosalud</item>
+        <item>MUTUAL SER</item>
+        <item>Servicio Occidental de Salud (SOS)</item>
+        <item>Cafam</item>
+        <item>Emssanar</item>
+        <item>Capital Salud</item>
+        <item>Comfandi</item>
+        <item>EPS SURA</item>
+        <item>Medimás EPS</item>
+        <item>Colsubsidio</item>
+        <item>EPS Sanitas</item>
+        <item>Compensar</item>
+        <item>Coomeva EPS</item>
+        <item>Salud total</item>
+        <item>Nueva EPS</item>
+        <item>Famisanar</item>
+    </string-array>
+
+    <string-array name="Departamentos">
+        <item>Amazonas</item>
+        <item>Antioquia</item>
+        <item>Arauca</item>
+        <item>Archipiélago de San Andrés, Providencia y Santa Catalina</item>
+        <item>Atlántico</item>
+        <item>Bogotá D.C.</item>
+        <item>Bolívar</item>
+        <item>Boyacá</item>
+        <item>Caldas</item>
+        <item>Caquetá</item>
+        <item>Casanare</item>
+        <item>Cauca</item>
+        <item>Cesar</item>
+        <item>Chocó</item>
+        <item>Córdoba</item>
+        <item>Cundinamarca</item>
+        <item>Guainía</item>
+        <item>Guaviare</item>
+        <item>Huila</item>
+        <item>La Guajira</item>
+        <item>Magdalena</item>
+        <item>Meta</item>
+        <item>Nariño</item>
+        <item>Norte de Santander</item>
+        <item>Putumayo</item>
+        <item>Quindío</item>
+        <item>Risaralda</item>
+        <item>Santander</item>
+        <item>Sucre</item>
+        <item>Tolima</item>
+        <item>Valle del Cauca</item>
+        <item>Vichada</item>
+    </string-array>
+
+    <string-array name="Municipios">
+        <item>Leticia</item>
+        <item>Medellín</item>
+        <item>Arauca</item>
+        <item>San Andrés</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Tunja</item>
+        <item>Manizales</item>
+        <item>Florencia</item>
+        <item>Yopal</item>
+        <item>Popayan</item>
+        <item>Valledupar</item>
+        <item>Quibdó</item>
+        <item>Monteria</item>
+        <item>Bogotá D.C.</item>
+        <item>Inírida</item>
+        <item>San José del Guaviare</item>
+        <item>Neiva</item>
+        <item>Rioacha</item>
+        <item>Santa Marta</item>
+        <item>Villaviencio</item>
+        <item>Pasto</item>
+        <item>Cúcuta</item>
+        <item>Mocoa</item>
+        <item>Armenia</item>
+        <item>Pereira</item>
+        <item>Bucaramanga</item>
+        <item>Sincelejo</item>
+        <item>Ibagué</item>
+        <item>Cali</item>
+        <item>Puerto Carreño</item>
+    </string-array>
+
+    <string-array name="Días">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+</string-array>
+
+    <string-array name="Meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+
+    <string-array name="Años">
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+
+    </string-array>
+
+</resources>
+
